@@ -1,0 +1,15 @@
+.green {
+  color: green;
+}
+.yellow {
+  color: yellow;
+}
+.gray {
+  color: gray;
+}
+
+#t {
+  position: absolute;
+  left: 50%;
+  down: 50%;
+}
